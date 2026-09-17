@@ -50,7 +50,6 @@ speak.exe -v "German Male" -o greeting.wav "guten tag"
 
 ## Credit
 
-Original TruVoice driver by Anthony C. Bartman. Adapted to drive Infovox 230
-using engine research from the
-[infovox23012-sapi5](https://github.com/joshknnd1982/infovox23012-sapi5)
-project.
+TruVoice multilingual driver by Anthony C. Bartman (@rommix0).
+
+Adapted to drive Infovox 230 using engine research from the [infovox23012-sapi5](https://github.com/joshknnd1982/infovox23012-sapi5) project.
